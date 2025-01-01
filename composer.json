@@ -1,0 +1,20 @@
+{
+    "name": "wixnit/regulate",
+    "description": "regulate library for wixnit services",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Wixnit\\Regulate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "danielmgbeafuruike",
+            "email": "110927006+danielmgbeafuruike@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "wixnit/core": "^1.4"
+    }
+}

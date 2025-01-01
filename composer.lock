@@ -1,0 +1,59 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "3cdaf92921724d020109d7664373f883",
+    "packages": [
+        {
+            "name": "wixnit/core",
+            "version": "1.4.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/danielmgbeafuruike/wixnit.git",
+                "reference": "aba6b557136d296a4ff933117cf11353a3c50f14"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/danielmgbeafuruike/wixnit/zipball/aba6b557136d296a4ff933117cf11353a3c50f14",
+                "reference": "aba6b557136d296a4ff933117cf11353a3c50f14",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Wixnit\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Daniel Mgbeafuruike",
+                    "email": "danidainid@yahoo.com"
+                }
+            ],
+            "description": "Awesome, slim, sleak php framework",
+            "keywords": [
+                "framework"
+            ],
+            "support": {
+                "issues": "https://github.com/danielmgbeafuruike/wixnit/issues",
+                "source": "https://github.com/danielmgbeafuruike/wixnit/tree/1.4.1"
+            },
+            "time": "2024-09-30T20:26:36+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
+}
